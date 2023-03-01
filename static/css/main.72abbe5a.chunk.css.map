@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/App.scss","webpack://src/components/UserInfo/UserInfo.scss"],"names":[],"mappings":"AAAA,OACE,YAAa,CACd,YAGC,iBAAkB,CCLpB,UACE,eAAiB","file":"main.72abbe5a.chunk.css","sourcesContent":["iframe {\r\n  display: none;\r\n}\r\n\r\n.App__title {\r\n  text-align: center;\r\n}\r\n",".UserInfo {\r\n  font-weight: bold;\r\n}\r\n"]}
